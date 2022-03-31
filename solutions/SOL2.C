@@ -38,3 +38,4 @@ void main()
 		printf("\n matrices is diognal");
 	getch();
 }
+
