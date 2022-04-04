@@ -25,7 +25,7 @@ void main()
 			scanf("%d",&m1[i][j]);
 		}
 	}
-	for(i=0;
+	// for(i=0;
 	{
 		for(j=0;j<3;j++)
 		{
